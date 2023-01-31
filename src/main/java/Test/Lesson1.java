@@ -1,4 +1,7 @@
-public class TestClass {
+package Test;
+
+public class Lesson1 {
+
     public static void main(String[] args) {
 //ТЕСТ ГИТ!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
